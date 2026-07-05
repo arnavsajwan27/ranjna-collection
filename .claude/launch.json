@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ranjna-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "/Users/arnavsinghsajwan/Desktop/websites/ranjna-collection",
+      "port": 5173
+    }
+  ]
+}
