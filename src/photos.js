@@ -21,7 +21,7 @@ export const placements = {
   hero: {
     src: import.meta.env.BASE_URL + 'images/rani-kundan-set.jpg',
     alt: 'Model in rani pink silk wearing a kundan choker set with ruby drops and chandelier earrings',
-    position: '50% 20%',
+    position: '50% 27%',
   },
   story: {
     src: import.meta.env.BASE_URL + 'images/duo-golden.jpg',
