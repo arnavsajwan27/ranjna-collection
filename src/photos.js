@@ -19,9 +19,9 @@
 // Fixed placements (hero, story, section intros)
 export const placements = {
   hero: {
-    src: import.meta.env.BASE_URL + 'images/rani-kundan-set.jpg',
-    alt: 'Model in rani pink silk wearing a kundan choker set with ruby drops and chandelier earrings',
-    position: '50% 27%',
+    src: import.meta.env.BASE_URL + 'images/gold-earchain.jpg',
+    alt: 'Model in a gold organza sari seen from behind, wearing a jhumka with draped pearl ear chains, among palace stone columns',
+    position: '52% 35%',
   },
   story: {
     src: import.meta.env.BASE_URL + 'images/duo-golden.jpg',
