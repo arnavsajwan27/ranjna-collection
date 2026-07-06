@@ -19,9 +19,9 @@
 // Fixed placements (hero, story, section intros)
 export const placements = {
   hero: {
-    src: import.meta.env.BASE_URL + 'images/gold-earchain.jpg',
-    alt: 'Model in a gold organza sari seen from behind, wearing a jhumka with draped pearl ear chains, among palace stone columns',
-    position: '52% 35%',
+    src: import.meta.env.BASE_URL + 'images/hero-earchain-back.jpg',
+    alt: 'Model in a gold organza sari seen from behind, hair over her shoulder, wearing a jhumka with draped pearl ear chains flowing into her ponytail, among palace stone columns',
+    position: '50% 45%',
   },
   story: {
     src: import.meta.env.BASE_URL + 'images/duo-golden.jpg',
